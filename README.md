@@ -1,2 +1,3 @@
-- 🌙 = AFK or doing something
-- ⛔ = I'm Busy rn or Playing games
+🌙 = AFK or doing something else
+
+⛔ = Busy rn or Playing games
