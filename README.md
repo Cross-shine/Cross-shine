@@ -1,2 +1,2 @@
-- 🌙 = Offtab
-- ⛔ = Afk
+- 🌙 = AFK or doing something
+- ⛔ = I'm Busy rn or Playing games
