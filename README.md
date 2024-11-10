@@ -1,4 +1,4 @@
-🟢 = Nothing
+🟢 = Just looking a friend
 
 🌙 = AFK or doing something else
 
