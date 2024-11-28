@@ -1,5 +1,5 @@
-🟢 = can c+h or looking a friend
+🟢 = Waiting my friends
 
 🌙 = AFK or doing something else
 
-⛔ = Busy rn or Playing games
+⛔ = Busy rn
